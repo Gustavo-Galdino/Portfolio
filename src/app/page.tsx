@@ -40,6 +40,7 @@ export default function Home() {
           <Links text="Curriculo">
             <Link
               href="https://drive.google.com/file/d/1jWq6hvGiLW0oTSri2t393QipgLSVkFtg/view?usp=sharing"
+              target="_blank"
               className="rounded-md bg-orange-300 p-1.5"
             >
               <FileText />
